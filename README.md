@@ -18,6 +18,11 @@ IT MGMT TOOLS es una colección de utilidades administrativas para Windows desar
 
 El objetivo principal era reducir el tiempo necesario para ejecutar tareas repetitivas de soporte técnico, evitando recordar o escribir manualmente múltiples comandos durante procesos de mantenimiento y solución de problemas.
 
+<img width="355" height="181" alt="image" src="https://github.com/user-attachments/assets/35f4e88c-9a00-4ce6-8028-ec7662d56475" />
+<img width="355" height="181" alt="image" src="https://github.com/user-attachments/assets/b819eacd-0a97-48ae-b3fe-ac3b5fa1414a" />
+
+
+
 ---
 
 ## Funcionalidades
@@ -49,6 +54,9 @@ El objetivo principal era reducir el tiempo necesario para ejecutar tareas repet
 * Restauración del sistema.
 * Limpieza y tareas de mantenimiento.
 
+<img width="355" height="181" alt="image" src="https://github.com/user-attachments/assets/1dfdbd66-69fb-406e-8c15-6a4de560b579" />
+
+
 ### Herramientas integradas
 
 * Acceso rápido a utilidades nativas de Windows.
@@ -59,6 +67,20 @@ El objetivo principal era reducir el tiempo necesario para ejecutar tareas repet
 
 * Contenido ASCII y easter eggs.
 * Recreación del clásico Star Wars ASCII encontrado originalmente en comunidades técnicas de la época.
+<img width="355" height="181" alt="image" src="https://github.com/user-attachments/assets/7bee3fee-2d81-4b24-9859-6c4d96dffd2e" />
+<img width="355" height="181" alt="image" src="https://github.com/user-attachments/assets/b5250d57-a63f-4e28-95aa-15dc2c236909" />
+
+
+### Star Wars CREDITS:
+
+Original Work : Simon Jansen ( http://www.asciimation.co.nz/)
+
+Telnetification : Sten Spans ( sten@blinkenlights.nl )
+
+Terminal Tricks : Mike Edwards (pf-asciimation@mirkwood.net)
+
+The hard work was done by Simon and Mike.
+I just placed it online in a different format.
 
 ---
 
