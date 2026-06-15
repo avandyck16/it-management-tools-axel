@@ -21,8 +21,6 @@ El objetivo principal era reducir el tiempo necesario para ejecutar tareas repet
 <img width="355" height="181" alt="image" src="https://github.com/user-attachments/assets/35f4e88c-9a00-4ce6-8028-ec7662d56475" />
 <img width="355" height="181" alt="image" src="https://github.com/user-attachments/assets/b819eacd-0a97-48ae-b3fe-ac3b5fa1414a" />
 
-
-
 ---
 
 ## Funcionalidades
